@@ -1,4 +1,4 @@
-# 5353-Mobile-Gaming-Weems
+# Mwsu-2D-Gaming-Weems
 ## Samuel Weems
 ## samuelweems@gmail.com
 
