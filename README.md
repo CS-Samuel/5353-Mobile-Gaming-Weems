@@ -1,4 +1,5 @@
 # Mwsu-2D-Gaming-Weems
+## Games From Course Available online at: https://samuelweems.com/
 ## Samuel Weems
 ## samuelweems@gmail.com
 
